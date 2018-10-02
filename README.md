@@ -3,6 +3,10 @@ AVR oscillator, TLV4112 OPA, rotary encoder for frequency change, LED for output
 
 firmware only, no source code
 
+efuse = 0xff
+hfuse = 0xdf
+lfuse = 0xe2
+
 schematic
 
 ![tiny85_oscillator.jpg](tiny85_oscillator.jpg)
